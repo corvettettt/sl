@@ -20,7 +20,7 @@
     "topojson-client": "^3.1.0",
     "web-vitals": "^0.2.4"
   },
-  "homepage": "http://corvettettt.github.io/starlink",
+  "homepage": "http://tylerwangstarlink.us",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
