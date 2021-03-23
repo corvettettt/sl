@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.99e18e58.chunk.css",
+    "main.js": "/static/js/main.6ff1e3e8.chunk.js",
+    "main.js.map": "/static/js/main.6ff1e3e8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ff987b84.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ff987b84.js.map",
+    "static/css/2.e8d3333d.chunk.css": "/static/css/2.e8d3333d.chunk.css",
+    "static/js/2.2fd3b4ae.chunk.js": "/static/js/2.2fd3b4ae.chunk.js",
+    "static/js/2.2fd3b4ae.chunk.js.map": "/static/js/2.2fd3b4ae.chunk.js.map",
+    "static/js/3.da4828ce.chunk.js": "/static/js/3.da4828ce.chunk.js",
+    "static/js/3.da4828ce.chunk.js.map": "/static/js/3.da4828ce.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.e8d3333d.chunk.css.map": "/static/css/2.e8d3333d.chunk.css.map",
+    "static/css/main.99e18e58.chunk.css.map": "/static/css/main.99e18e58.chunk.css.map",
+    "static/js/2.2fd3b4ae.chunk.js.LICENSE.txt": "/static/js/2.2fd3b4ae.chunk.js.LICENSE.txt",
+    "static/media/satelite.d327b26a.svg": "/static/media/satelite.d327b26a.svg",
+    "static/media/spacex_logo.ad25dfff.svg": "/static/media/spacex_logo.ad25dfff.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff987b84.js",
+    "static/css/2.e8d3333d.chunk.css",
+    "static/js/2.2fd3b4ae.chunk.js",
+    "static/css/main.99e18e58.chunk.css",
+    "static/js/main.6ff1e3e8.chunk.js"
+  ]
+}
